@@ -7,7 +7,7 @@ The AI model will be hosted on this website:
 https://theeaglewarrior.org/<br>
 <h3>IF YOU ARE A DEVELOPER, CODER or AI ENGINEER</h3>
 Please reach out to our team if you would like to join in the efforts to help veterans. <br>
-Eagle Warriors Organization is a public registered charity aimed to help veterans. There is a private repository and a volunteers connection site to keep track of your time while working with our team to develop a strong AI application aimed to assist veterans in need.<br>
+Eagle Warriors Organization is a public registered charity aimed to help veterans. There is a private repository and a volunteers connection site to keep track of your time while working with our team to develop a strong AI application aimed to assist veterans in need.<br> The Chat is open in the "Discussions" Icon above.<br>
 
 Thank you, <br>
 Lead Admin, <br>
