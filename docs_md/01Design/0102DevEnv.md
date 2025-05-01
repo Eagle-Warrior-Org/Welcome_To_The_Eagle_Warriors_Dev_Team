@@ -11,4 +11,4 @@ One thing I am unsure of is setting up a development environment for this projec
 4.  I feel comfortable with markdown for all documentation pages. I notice that the readme file is <html> which is ok with me- jst more typing
 5.  I propose we do not work on the main branch. We should make a copy of the main branch work on the copy and then merge the copy into main. A good name for the copy might be *'dev'*.. 
 
-[Table of Contents](.../TOC.md)
+[Table of Contents](../TOC.md)

@@ -13,5 +13,5 @@ Then we have to decide which AI we would use as a base model. Questions in this 
 
 Unfortunately I very little insight in the answer to the above 3 questions at this time. 
 
-[Table of Contents](.../TOC.md)
+[Table of Contents](../TOC.md)
 
