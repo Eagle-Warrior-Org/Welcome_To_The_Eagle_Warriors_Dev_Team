@@ -1,4 +1,4 @@
-E### 01.02 Dev Choices ###
+### 01.02 Dev Choices ###
 
 *Author:* Mike Rehner \
 *Date:* 2/21/25 \
