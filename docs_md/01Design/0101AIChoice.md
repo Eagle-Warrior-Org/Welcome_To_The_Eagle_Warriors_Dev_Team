@@ -2,6 +2,7 @@
 
 *Author:* Mike Rehner \
 *Date:* 2/20/25
+*Revised* 5/1/25*
 
 One of the decisions that have to be made is what AI (Artificial Intelligence) 
 platform choice to start with. 

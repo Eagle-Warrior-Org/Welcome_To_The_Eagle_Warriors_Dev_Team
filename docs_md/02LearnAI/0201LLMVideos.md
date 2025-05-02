@@ -13,19 +13,20 @@ how Hugging Face helps with using AI. Also mentions Kaggle datasets. Video Feb 2
 with Rush Shahani](https://learning.acm.org/techtalks/productionllm)- Video
 12 Dec 2024. Not very helpful for starting out. But would be useful after LLM is
 built and operating. Includes additional information on making LLMs trustworthy.
-Also deals with setting up RAG- Retrieval Augmented Generation.
+Also deals with setting up RAG (Retrieval Augmented Generation).
 
-[Introduction to Retrieval Augmented Generation with Abhinav KImothi]
+[Introduction to Retrieval Augmented Generation with Abhinav Kimothi]
 (https://learning.acm.org/techtalks/augmentedgeneration)- Using RAG technique to
 assist an LLM by grounding the response with external resources. Video 12 September 2024 
 
-[Understanding the LLM Development Cycle: Building, Training, and Finetuning 
+[Understanding the LLM Development Cycle: Building, Training, and Fine-tuning 
 with Sebastian Raschka](https://learning.acm.org/techtalks/llmdevelopment)-
 Video 5 June 2024. Since we have decided to start with a *Foundation Model LLM* 
 the section on Building and Training may not be relevant to this project but 
 these sections do provide some high level background. The section on 
-*Finetuning* provides high level coverage that relates to this project. 
-Finetuning also includes a bonus section which mentions *Preference Finetuning* 
+*Fine-tuning* provides high level coverage that relates to this project. 
+Fine-tuning also includes a bonus section which mentions *Preference 
+Fine-tuning* 
 and *Evaluation* of LLMs. Note that the video hangs up around 15 minutes but 
 then picks up as the technical issues are resolved.
 
