@@ -4,11 +4,9 @@
 *Date:* 02/21/25 \
 *Revised:* 05/01/25
 
-We also need to decide if we want a wiki and what it will consist of. I've notice 
-2 repos on the Eagle-Warrior site. One is public and the other is private. On 
+We also need to decide if we want a wiki and what it will consist of. There 
+are two repos in the Eagle Warrior project site. One is public and the other is private. On 
 the free plan as I understand it you can not have a wiki on a private repo.
-
-If we desire a public facing wiki we will need to decide what it should and should not contain.
 
 Github allows wikis to be cloned by appending 'wiki.git' to the repo url. But 
 because we have a free account this can only be done on a public repo. 
