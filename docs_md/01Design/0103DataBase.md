@@ -1,7 +1,8 @@
-### 01.03 Database Choice ###
+### 01.03 Database Envvironment  ###
+Choice
 
 *Author:* Mike Rehner \
-*Date:* 5/815git/25
+*Date:* 5/15/25
 
 Currently we have decided to use chromadb as the database to support our 
 project. We are currently running chromadb locally. If you are familiar with 
